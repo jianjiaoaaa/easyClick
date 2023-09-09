@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/easyClick.iml" filepath="$PROJECT_DIR$/.idea/easyClick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testHID/testHID.iml" filepath="$PROJECT_DIR$/testHID/testHID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多多/多多.iml" filepath="$PROJECT_DIR$/多多/多多.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多多买菜/多多买菜.iml" filepath="$PROJECT_DIR$/多多买菜/多多买菜.iml" />
+      <module fileurl="file://$PROJECT_DIR$/新项目1/新项目1.iml" filepath="$PROJECT_DIR$/新项目1/新项目1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/智酷/智酷.iml" filepath="$PROJECT_DIR$/智酷/智酷.iml" />
+      <module fileurl="file://$PROJECT_DIR$/短剧/短剧.iml" filepath="$PROJECT_DIR$/短剧/短剧.iml" />
+      <module fileurl="file://$PROJECT_DIR$/短剧多开/短剧多开.iml" filepath="$PROJECT_DIR$/短剧多开/短剧多开.iml" />
+    </modules>
+  </component>
+</project>
